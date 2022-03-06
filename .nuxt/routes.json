@@ -1,0 +1,58 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/Users/chikaukume/dev/chikau/udemy/jwt-app/frontend/pages/dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_60a4bda6"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/chikaukume/dev/chikau/udemy/jwt-app/frontend/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_70015c02"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/chikaukume/dev/chikau/udemy/jwt-app/frontend/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_26f9b4cc"
+  },
+  {
+    "name": "topics",
+    "path": "/topics",
+    "component": "/Users/chikaukume/dev/chikau/udemy/jwt-app/frontend/pages/topics/index.vue",
+    "chunkName": "pages/topics/index",
+    "_name": "_d9202cc4"
+  },
+  {
+    "name": "topics-edit",
+    "path": "/topics/edit",
+    "component": "/Users/chikaukume/dev/chikau/udemy/jwt-app/frontend/pages/topics/edit/index.vue",
+    "chunkName": "pages/topics/edit/index",
+    "_name": "_a1992c1e"
+  },
+  {
+    "name": "topics-posts-edit",
+    "path": "/topics/posts/edit",
+    "component": "/Users/chikaukume/dev/chikau/udemy/jwt-app/frontend/pages/topics/posts/edit/index.vue",
+    "chunkName": "pages/topics/posts/edit/index",
+    "_name": "_6d34c6ad"
+  },
+  {
+    "name": "topics-id",
+    "path": "/topics/:id",
+    "component": "/Users/chikaukume/dev/chikau/udemy/jwt-app/frontend/pages/topics/_id.vue",
+    "chunkName": "pages/topics/_id",
+    "_name": "_32f088f4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/chikaukume/dev/chikau/udemy/jwt-app/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b34c8e2a"
+  }
+]
